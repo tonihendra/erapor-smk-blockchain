@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./img/screenshot.png" width="350" alt="Screenshot Aplikasi">
 </p>
-> **Sistem Verifikasi Rapor Digital Terdesentralisasi untuk Integritas Nilai Siswa.**
+**Sistem Verifikasi Rapor Digital Terdesentralisasi untuk Integritas Nilai Siswa.**
 
 [![Build Status](https://img.shields.io/badge/Blockchain-Polygon-blueviolet)](https://polygon.technology/)
 [![Frontend](https://img.shields.io/badge/Frontend-React.js-blue)](https://reactjs.org/)
